@@ -34,6 +34,9 @@ export default {
         },
         {
           label: _('Account'), route: '#/list/Account'
+        },
+        {
+          label: _('Purchase'), route: '#/list/Purchase'
         }
       ]
     },
